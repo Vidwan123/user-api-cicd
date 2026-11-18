@@ -1,0 +1,1 @@
+{ "name": "user-api-cicd", "version": "1.0.0", "scripts": { "start": "node src/index.js", "test": "jest --forceExit" }, "dependencies": { "express": "^4.19.2", "redis": "^4.6.13" }, "devDependencies": { "jest": "^29.7.0", "supertest": "^6.3.4" } }
